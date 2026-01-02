@@ -1,0 +1,14 @@
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\bin\Debug\net9.0\TCC_1_Alg.exe
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\bin\Debug\net9.0\TCC_1_Alg.deps.json
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\bin\Debug\net9.0\TCC_1_Alg.runtimeconfig.json
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\bin\Debug\net9.0\TCC_1_Alg.dll
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\bin\Debug\net9.0\TCC_1_Alg.pdb
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\obj\Debug\net9.0\TCC_1_Alg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\obj\Debug\net9.0\TCC_1_Alg.AssemblyInfoInputs.cache
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\obj\Debug\net9.0\TCC_1_Alg.AssemblyInfo.cs
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\obj\Debug\net9.0\TCC_1_Alg.csproj.CoreCompileInputs.cache
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\obj\Debug\net9.0\TCC_1_Alg.dll
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\obj\Debug\net9.0\refint\TCC_1_Alg.dll
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\obj\Debug\net9.0\TCC_1_Alg.pdb
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\obj\Debug\net9.0\TCC_1_Alg.genruntimeconfig.cache
+C:\Users\BJORN\source\repos\TCC_1_Alg\TCC_1_Alg\obj\Debug\net9.0\ref\TCC_1_Alg.dll
